@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UniDiscussionApp</string>
+    <string name="pass_word">Password</string>
+    <string name="user_name">Username</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="important">Important</string>
+    <string name="colleague_first_name">Colleague First Name</string>
+    <string name="colleague_last_name">Colleague Last Name</string>
+    <string name="email">Email</string>
+    <string name="send">Send</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="message_content">Message Content</string>
+</resources>
